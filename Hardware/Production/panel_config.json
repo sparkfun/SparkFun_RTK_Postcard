@@ -3,7 +3,7 @@
   "dimensionsMmBtn": false,
   "panelSizeSmallerBtn": false,
   "panelSizeLargerBtn": true,
-  "panelSizeXCtrl": "5",
+  "panelSizeXCtrl": "3",
   "panelSizeYCtrl": "6",
   "gapsVerticalCtrl": "0.0",
   "gapsHorizontalCtrl": ".12",

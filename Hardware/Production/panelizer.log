@@ -1,13 +1,13 @@
-2024-11-09 13:43:33,210 - panelizer_logger - INFO - Running Panelizer
-2024-11-09 13:43:33,212 - panelizer_logger - INFO - ['--panelx', '127.000000', '--panely', '152.400000', '--larger', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '3.048000', '--hrail', '6.35', '--vrail', '6.35', '--fiducialslr']
-2024-11-09 13:43:33,214 - panelizer_logger - INFO - PANELIZER START: 2024-11-09T13:43:33.214978
-2024-11-09 13:43:42,293 - panelizer_logger - WARNING - 
-START: 2024-11-09T13:43:33.214978
+2024-11-18 21:05:49,612 - panelizer_logger - INFO - Running Panelizer
+2024-11-18 21:05:49,615 - panelizer_logger - INFO - ['--panelx', '76.200000', '--panely', '152.400000', '--larger', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '3.048000', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
+2024-11-18 21:05:49,628 - panelizer_logger - INFO - PANELIZER START: 2024-11-18T21:05:49.628003
+2024-11-18 21:05:59,543 - panelizer_logger - INFO - 
+START: 2024-11-18T21:05:49.628003
 Board saved by user.
+Zones filled by user.
 
-Board: C:\Users\natha\Dropbox\Projects\SparkFun_RTK_Postcard\Hardware\Production\SparkFun_RTK_Postcard_panelized.kicad_pcb
+Board: C:\Users\lenny\Dropbox\Projects\SparkFun_RTK_Postcard\Hardware\Production\SparkFun_RTK_Postcard_panelized.kicad_pcb
 Board dimensions: 43.18 x 43.18 mm.
-You can fit 3 x 4 boards on the panel.
-Ordering Instructions not found! No futher ordering warnings will be given.
+You can fit 2 x 4 boards on the panel.
 
-2024-11-09 13:43:43,333 - panelizer_logger - INFO - Panelizer complete
+2024-11-18 21:06:01,282 - panelizer_logger - INFO - Panelizer complete

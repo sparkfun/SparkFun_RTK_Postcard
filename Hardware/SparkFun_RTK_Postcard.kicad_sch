@@ -5,7 +5,7 @@
 	(uuid "e3dd3ae4-244d-4cba-9cca-5d2abf83f29a")
 	(paper "USLedger")
 	(title_block
-		(title "LG290P Triband GNSS Receiver Breakout")
+		(title "RTK Postcard (LG290P Quadband GNSS)")
 		(date "2024-08-21")
 		(rev "v10")
 		(comment 1 "Designed by: N. Seidle")
@@ -13719,6 +13719,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 100.33) (xy 337.82 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3114c2e4-cc87-4a1b-a49b-d5fd3d7b838b")
+	)
+	(wire
+		(pts
 			(xy 262.89 74.93) (xy 260.35 74.93)
 		)
 		(stroke
@@ -13906,6 +13916,16 @@
 			(type default)
 		)
 		(uuid "413ef471-42b5-4366-ac94-717e00e2aaba")
+	)
+	(wire
+		(pts
+			(xy 339.09 105.41) (xy 337.82 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "414c85e0-9700-4a5a-8516-6c8abaed5367")
 	)
 	(wire
 		(pts
@@ -16038,7 +16058,7 @@
 		)
 		(uuid "ef96d759-bd9a-40c6-a60f-33a30ae0b085")
 	)
-	(text "No internal I²C0 pull-ups because \nLG290P has internal resistors."
+	(text "No external I²C0 pull-ups because \nLG290P has internal resistors."
 		(exclude_from_sim no)
 		(at 385.064 76.962 0)
 		(effects
@@ -16325,6 +16345,28 @@
 		(uuid "2a518474-06a6-4580-8105-d10c028f0f79")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 352.3562 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LG-PPS"
+		(shape input)
+		(at 339.09 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2ed9e2f8-446d-4007-8e06-2969bb4a6993")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.6952 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16721,6 +16763,28 @@
 		(uuid "78f30e4e-c5d8-4011-87ee-22a9fe9a6b6d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 383.3199 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LG-EVENT"
+		(shape input)
+		(at 339.09 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d67b3a7-15fe-4398-beda-95fad74b7005")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 351.6304 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17588,28 +17652,6 @@
 			)
 		)
 	)
-	(global_label "LG-PPS"
-		(shape input)
-		(at 339.09 69.85 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f55fc98c-645f-47bb-820d-4afbe2ee9347")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 349.6952 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SDA_0"
 		(shape input)
 		(at 82.55 242.57 0)
@@ -17645,6 +17687,28 @@
 		(uuid "f7197595-5588-40cd-98ef-a1feb7e742f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 149.86 148.1448 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LG-RTK"
+		(shape input)
+		(at 339.09 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f8215a5c-8104-469c-9ef4-409dd6742c65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.4533 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)

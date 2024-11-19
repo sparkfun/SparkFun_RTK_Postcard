@@ -1,9 +1,9 @@
 Ordering Instructions:
-Panel dimensions: 144.24 x 203.16 mm.
+Panel dimensions: 100.56 x 203.16 mm.
 Controlled Impedance: JLC04161H-7628 Stackup
 Material: TG155
 Solder Mask: Red
-Silkscreen: White
+Silkscreen Color: White
 Layers: 4
 Finish: ENIG
 Thickness: 1.6mm
