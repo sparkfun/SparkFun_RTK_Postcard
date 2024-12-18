@@ -26718,7 +26718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "SHLD"
 			(at 19.05 87.63 90)
 			(effects
 				(font
