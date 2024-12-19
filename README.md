@@ -5,7 +5,6 @@ SparkFun RTK Postcard
 
 [*SparkFun RTK Postcard (GPS-26916)*](https://www.sparkfun.com/products/26916)
 
-
 Designed and manufactured in Boulder, CO USA, the [SparkFun RTK Postcard](https://www.sparkfun.com/products/26916) is a compact development board for your high-precision positioning and navigation needs. This board combines the Quectel LG290P GNSS RTK receiver with an Espressif ESP32-PICO-MINI-02 MCU module, running our latest [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware). The ESP32 provides the SparkFun Postcard with WiFi and Bluetooth&trade; connectivity to operate as an NTRIP caster or client. Meanwhile, the 4-pin locking JST-GH connector allows users to transmit or receive RTCMv3 messages for RTK corrections from a local base station.
 
 - The LG290P module is a quad-band, multi-constellation, high-precision, RTK GNSS receiver. The module can simultaneously receive signals from the `L1`, `L2`, `L5`, and `L6`/`E6` frequency bands of the GPS, GLONASS, Galileo, BDS, QZSS, and NavIC GNSS constellations. In addition, the module supports SBAS augmentation systems (WASS, EGNOS, BDSBAS, MSAS, GAGAN, and SDCM), PPP services* (BDS PPP-B2b, QZSS CLAS, MADOCA-PPP, and Galileo HAS), RTCM, and RTK corrections for precision navigation with a fast convergence time and reliable performance. Connect with ease using a variety of interfaces, including UART, SPI*, and I2C*. 
@@ -34,8 +33,8 @@ In addition to the RTK Postcard, we created the [Portability Shield](https://www
 Documentation
 --------------
 
-* **Hookup Guide (mkdocs)** - The hookup guide for the SparkFun RTK Postcard hosted by GitHub pages.<br>
-  [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+* **[Hookup Guide (mkdocs)](http://docs.sparkfun.com/SparkFun_RTK_Postcard/)** - The hookup guide for the SparkFun RTK Postcard hosted by GitHub pages.<br>
+  [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/) [![GitHub Pages Deploy](https://github.com/sparkfun/SparkFun_RTK_Postcard/actions/workflows/mkdocs.yml/badge.svg)](https://github.com/sparkfun/SparkFun_RTK_Postcard/actions/workflows/mkdocs.yml)
 * [User Manual - RTK Everywhere Firmware](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/) - Documentation for the [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware)
 * [SparkFun LG290P GNSS Arduino Library](https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library) - An Arduino library for the LG290P GNSS module
 
@@ -46,16 +45,17 @@ Documentation
 Repository Contents
 -------------------
 
-* **/docs** - Online documentation files
-    * assets - Assets files
-        * 3d_model - Files for the 3D models
-            * 3D CAD Model (.step)
-        * board_files - Files for the product design
-            * KiCad Design Files (.zip)
-            * Schematic (.pdf)
-            * Dimension (.pdf)
-        * component_documentation - Datasheets for hardware components
-        * img/hookup_guide/ - Images for hookup guide documentation
+* **[/docs](/docs/)** - Online documentation files
+    * [assets](/docs/assets/) - Assets files
+        * [3d_model](/docs/assets/3d_model/) - Files for the 3D models
+            * [3D CAD Model](/docs/assets/3d_model/cad_model.step) (.step)
+        * [board_files](/docs/assets/board_files/) - Files for the product design
+            * [KiCad Design Files](/docs/assets/board_files/kicad_files.zip) (.zip)
+            * [Schematic](/docs/assets/board_files/schematic.pdf) (.pdf)
+            * [Dimensions](/docs/assets/board_files/dimensions.pdf) (.pdf)
+        * [component_documentation](/docs/assets/component_documentation/) - Datasheets for hardware components
+        * [img/hookup_guide/](/docs/assets/img/hookup_guide/) - Images for hookup guide documentation
+* **[/Enclosure](/Enclosure/)** - CAD model for an enclosure
 * **[/Hardware](/Hardware/)** - Hardware design files (.brd, .sch)
   * **[/Production](/Production/)** - Production files
 
@@ -63,7 +63,7 @@ Product Variants
 ----------------
 
 * [GPS-26916](https://www.sparkfun.com/products/26916) - v1.0, Initial Release
-* [GPS-26620](https://www.sparkfun.com/products/26916) - SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic)
+* [GPS-26620](https://www.sparkfun.com/products/26620) - SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic) *(w/o ESP32)*
 
 Version History
 ---------------
