@@ -1,7 +1,7 @@
 SparkFun RTK Postcard
 ========================================
 
-[![SparkFun RTK Postcard](https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/0/3/2/SparkFun_RTK_Postcard-angled.jpg)](https://www.sparkfun.com/products/26916)
+[![SparkFun RTK Postcard](https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/0/3/2/26916-RTK-Postcard-Feature.jpg)](https://www.sparkfun.com/products/26916)
 
 [*SparkFun RTK Postcard (GPS-26916)*](https://www.sparkfun.com/products/26916)
 
