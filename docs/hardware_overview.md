@@ -1336,7 +1336,7 @@ There are two buttons on RTK Postcard; a ++"RST"++ and ++"BOOT"++ button.
 
 
 ## GNSS Antenna Connectors
-While there are two GNSS antenna connectors, only the SMA connector is connected to the LG290P GNSS module by default. If users wish, they can rework the *402* resistor on the antenna trace to utilize the u.fl connector instead.
+While there are two GNSS antenna connectors, only the SMA connector is connected to the LG290P GNSS module by default. If users wish, they can rework the *0402* resistor on the antenna trace to utilize the u.fl connector instead.
 
 <div class="grid" markdown>
 
