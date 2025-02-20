@@ -952,7 +952,7 @@ As a more sophisticated product, we will skip over the more fundamental tutorial
 
 -   <a href="https://learn.sparkfun.com/tutorials/62">
 	<figure markdown>
-	![Tutorial Thumbnail](https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/6/2/Input_Output_Logic_Level_Tolerances_tutorial_tile.png)
+	![Tutorial Thumbnail](https://cdn.sparkfun.com/assets/learn_tutorials/6/2/Input_Output_Logic_Level_Tolerances_tutorial_tile.png)
 	</figure>
 
 	---
