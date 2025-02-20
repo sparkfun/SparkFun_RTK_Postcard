@@ -943,7 +943,7 @@ As a more sophisticated product, we will skip over the more fundamental tutorial
 
 -   <a href="https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/">
 	<figure markdown>
-	![Tutorial Thumbnail]()
+	![Tutorial Thumbnail](https://cdn.sparkfun.com/r/600-600/assets/parts/2/4/7/0/6/24342-RTK-EVK-Action-6-1.png)
 	</figure>
 
 	---
