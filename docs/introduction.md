@@ -514,7 +514,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 
 ???+ note "Shields, Headers, and Wiring"
-	To add headers or wiring, users will need [soldering equipment](https://www.sparkfun.com/categories/49) and [headers](https://www.sparkfun.com/categories/381)/[wires](https://www.sparkfun.com/search/results?term=hook-up+wire).
+	To add headers or wiring, users will need [soldering equipment](https://www.sparkfun.com/categories/49) and [headers](https://www.sparkfun.com/categories/381)/[wires](https://www.sparkfun.com/catalogsearch/result/?q=hook-up+wire).
 
 
 	!!! tip "New to soldering?"
@@ -941,18 +941,18 @@ As a more sophisticated product, we will skip over the more fundamental tutorial
 
 	**Portability Shield Hookup Guide**</a>
 
--   <a href="https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/">
+-   <a href="https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware">
 	<figure markdown>
-	![Tutorial Thumbnail](https://cdn.sparkfun.com/r/600-600/assets/parts/2/4/7/0/6/24342-RTK-EVK-Action-6-1.png)
+	![Tutorial Thumbnail](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/img/thumbnail.jpg)
 	</figure>
 
 	---
 
-	**RTK Everywhere Firmware**</a>
+	**SparkFun RTK Everywhere Product Manual**</a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/62">
 	<figure markdown>
-	![Tutorial Thumbnail](https://cdn.sparkfun.com/assets/learn_tutorials/6/2/Input_Output_Logic_Level_Tolerances_tutorial_tile.png)
+	![Tutorial Thumbnail](https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/6/2/Input_Output_Logic_Level_Tolerances_tutorial_tile.png)
 	</figure>
 
 	---
