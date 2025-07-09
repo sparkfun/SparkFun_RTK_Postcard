@@ -21,7 +21,7 @@ icon: material/book-open-page-variant
 		- :material-usb-port: CH342 USB Driver *([manufacturer website](https://www.wch-ic.com/search?q=CH342&t=downloads))*
 			- :material-microsoft-windows: [Windows](https://www.wch-ic.com/downloads/CH343SER_EXE.html)
 			- :material-apple: [MacOS](https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html)
-		- :fontawesome-solid-satellite-dish: [QGNSS Software *(v2.0)*](https://www.quectel.com/download/qgnss_v2-0_en/)
+		- :fontawesome-solid-satellite-dish: [QGNSS Software *(v2.x)*](https://www.quectel.com/download/qgnss_v2-0_en/)
 		- :simple-arduino: [ESP32 Arduino Core](https://github.com/espressif/arduino-esp32)
 			- Arduino Board Manager URL: 
 				```
