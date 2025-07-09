@@ -54,7 +54,7 @@ QGNSS is highly intuitive GNSS evaluation software that is easy to use, personal
 
 <div align="center" markdown>
 
-	[:octicons-download-16:{ .heart } Download the QGNSS Software *(v2.1)* from Quectel](https://www.quectel.com/download/qgnss_v2-1_en/){ .md-button .md-button--primary target="blank" }
+[:octicons-download-16:{ .heart } Download the QGNSS Software *(v2.1)* from Quectel](https://www.quectel.com/download/qgnss_v2-1_en/){ .md-button .md-button--primary target="blank" }
 
 </div>
 
