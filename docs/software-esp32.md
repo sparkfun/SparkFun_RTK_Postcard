@@ -124,9 +124,9 @@ SparkFun LG290P Quadband RTK GNSS Arduino Library in the library manager of the 
 !!! tip "Manually Download the Arduino Library"
 	For users who would like to manually download and install the library, the `*.zip` file can be accessed from the [GitHub repository](https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library) or downloaded by clicking the button below.
 
-	<center>
+	<article style="text-align: center;" markdown>
 	[:octicons-download-16:{ .heart } Download the Arduino Library](https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library/archive/refs/heads/main.zip){ .md-button .md-button--primary }
-	</center>
+	</article>
 
 </div>
 
