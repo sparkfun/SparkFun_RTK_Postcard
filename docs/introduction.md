@@ -23,7 +23,7 @@ icon: material/book-open-page-variant
 	</article>
 
 	<figure markdown>
-	[&nbsp;![QR code to product page](./assets/img/qr_code/product-low.png){ .tinyqr }&nbsp;&nbsp;Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }&nbsp;&nbsp;&nbsp;](https://www.sparkfun.com/products/26916){ .md-button .md-button--primary }
+	![QR code to product page](./assets/img/qr_code/product-low.png){ .tinyqr } [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/26916){ .md-button .md-button--primary }
 	</figure>
 	</center>
 
