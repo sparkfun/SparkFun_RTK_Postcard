@@ -16,16 +16,14 @@ icon: material/book-open-page-variant
 	</figure></a>
 
 
-	<center>
-	<article class="video-500px">
+	<article class="video-500px" style="text-align: center; margin: auto;" markdown>
 	<iframe src="https://www.youtube.com/embed/t00t77OuVi4" title="Product Showcase Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	![QR code to product video](./assets/img/qr_code/product_video.png){ .qr width=100 }
 	</article>
 
-	<figure markdown>
-	[&nbsp;![QR code to product page](./assets/img/qr_code/product-low.png){ .tinyqr }&nbsp;&nbsp;Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }&nbsp;&nbsp;&nbsp;](https://www.sparkfun.com/products/26916){ .md-button .md-button--primary }
-	</figure>
-	</center>
+	<article style="text-align: center;" markdown>
+	![QR code to product page](./assets/img/qr_code/product-low.png){ .tinyqr } [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/26916){ .md-button .md-button--primary }
+	</article>
 
 
 - Designed and manufactured in Boulder, CO USA, the SparkFun RTK Postcard is a compact development board for your high-precision positioning and navigation needs. This board combines the Quectel LG290P GNSS RTK receiver with an Espressif ESP32-PICO-MINI-02 MCU module, running our latest [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware). The ESP32 provides the SparkFun Postcard with WiFi and Bluetooth&trade; connectivity to operate as an NTRIP caster or client. Meanwhile, the 4-pin locking JST-GH connector allows users to transmit or receive RTCMv3 messages for RTK corrections from a local base station.
@@ -775,10 +773,10 @@ To get started, users will need a few items. Some users may already have a few o
 		<div markdown>
 
 		<!-- Qwiic Banner -->
-		<center>
+		<article style="text-align: center;" markdown>
 		[![Qwiic Logo - light theme](./assets/img/qwiic/qwiic_logo-light.png#only-light){ width=400 }](https://www.sparkfun.com/qwiic)
 		[![Qwiic Logo - dark theme](./assets/img/qwiic/qwiic_logo-dark.png#only-dark){ width=400 }](https://www.sparkfun.com/qwiic)
-		</center>
+		</article>
 
 		---
 
@@ -788,13 +786,13 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div style="max-height=400px;" markdown>
 
-		<center>
+		<article style="text-align: center;" markdown>
 		<div class="video-500px">
 		<iframe src="https://www.youtube.com/embed/x0RDEHqFIF8" title="SparkFun's Qwiic Connect System" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 		![QR code to instructional video](./assets/img/qr_code/qwiic_video.png){ .qr width=100 }
 		</div>
-		</center>
+		</article>
 
 		</div>
 
