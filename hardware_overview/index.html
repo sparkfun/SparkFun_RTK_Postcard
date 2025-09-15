@@ -2700,7 +2700,7 @@ Default I<sup>2</sup>C bus connections for the RTK Postcard.
 </div>
 </details>
 <h2 id="quectel-logo-lg290p-gnss"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" width="37.411" height="22.83" viewbox="0 0 37.411 22.83"><title>Quectel logo</title><path fill="#ed000c" d="M14.559 14.012c-2.849-.038-6.298.937-10.848 3.687 12.2-3.1 14.3 9.6 33.7 3.4-11.176 2.25-14.307-6.975-22.852-7.087z"/><path d="M12.111 0c-1.7 0-3.4.4-4.9 1.3-1.5.8-2.6 2-3.4 3.5l-3 5.7c-1.4 2.6-1 5 1.3 6l.6-.4c3-1.8 5.7-3 8.3-3.6l4.3-8.2.1-.3c.7-1.4 1.7-2.2 3.4-2.2h3.3c1.5 0 1.8.9 1.2 2l-4.6 9c2.1.7 3.9 1.8 5.6 2.9.5-.4.9-.9 1.2-1.5l4.3-8.1c1.8-3.2-.1-6.1-4.3-6.1Z"/></svg></span>&nbsp; LG290P GNSS<a class="headerlink" href="#quectel-logo-lg290p-gnss" title="Permanent link"></a></h2>
-<p>The centerpiece of the RTK Postcard, is the <a href="../assets/component_documentation/Quectel_LG290P%2803%29_Hardware_Design_V1.0.pdf">LG290P GNSS module</a> from <a href="https://www.quectel.com/" target="_blank" rel="noopener">Quectel</a>. The LG290P is a low-power, multi-band, multi-constellation GNSS receiver capable of delivering centimeter-level precision at high update rates. The built-in NIC anti-jamming unit provides professional-grade interference signal detection and elimination algorithms, which effectively mitigate against multiple narrow-band interference sources and significantly improves the signal reception performance in complex electromagnetic environments. With its performance advantages of high-precision and power consumption, this board is an ideal choice for high-precision navigation applications, such as intelligent robots, UAVs, precision agriculture, mining, surveying, and autonomous navigation.</p>
+<p>The centerpiece of the RTK Postcard, is the <a href="../assets/component_documentation/quectel_lg290p03_hardware_design_v1-1.pdf">LG290P GNSS module</a> from <a href="https://www.quectel.com/" target="_blank" rel="noopener">Quectel</a>. The LG290P is a low-power, multi-band, multi-constellation GNSS receiver capable of delivering centimeter-level precision at high update rates. The built-in NIC anti-jamming unit provides professional-grade interference signal detection and elimination algorithms, which effectively mitigate against multiple narrow-band interference sources and significantly improves the signal reception performance in complex electromagnetic environments. With its performance advantages of high-precision and power consumption, this board is an ideal choice for high-precision navigation applications, such as intelligent robots, UAVs, precision agriculture, mining, surveying, and autonomous navigation.</p>
 <div class="grid">
 <div>
 <figure>
@@ -2839,7 +2839,7 @@ Frequency bands of the global navigation satellite systems. (Source: <a href="ht
 </div>
 <div class="admonition info">
 <p class="admonition-title">Info</p>
-<p>For a comparison of the frequency bands supported by the LG290P GNSS modules, refer to sections <strong>1.2</strong>, <strong>1.5</strong>, and <strong>1.6</strong> of the <a href="../assets/component_documentation/Quectel_LG290P%2803%29_Hardware_Design_V1.0.pdf">hardware design manual</a>.</p>
+<p>For a comparison of the frequency bands supported by the LG290P GNSS modules, refer to sections <strong>1.2</strong>, <strong>1.5</strong>, and <strong>1.6</strong> of the <a href="../assets/component_documentation/quectel_lg290p03_hardware_design_v1-1.pdf">hardware design manual</a>.</p>
 </div>
 <details class="tip">
 <summary>What are Frequency Bands?</summary>
@@ -3085,7 +3085,7 @@ The data structure of Quectel messages for the <code>NMEA</code> protocol.
 <div class="tabbed-set tabbed-alternate" data-tabs="5:3"><input checked="checked" id="nmea" name="__tabbed_5" type="radio" /><input id="pqtm" name="__tabbed_5" type="radio" /><input id="rtcm" name="__tabbed_5" type="radio" /><div class="tabbed-labels"><label for="nmea">NMEA</label><label for="pqtm">PQTM</label><label for="rtcm">RTCM</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<p>A full list of compatible <code>NMEA 0183</code> v4.11 messages, is provided in section <strong>2.2. Standard Messages</strong> of the <a href="../assets/component_documentation/Quectel_LG290P_GNSS_Protocol_Specification_v1-0.pdf">GNSS Protocol Specification</a> manual. This protocol is used for outputting GNSS data, as detailed by the <a href="https://www.nmea.org/" target="_blank" rel="noopener">National Marine Electronics Association</a> organization.</p>
+<p>A full list of compatible <code>NMEA 0183</code> v4.11 messages, is provided in section <strong>2.2. Standard Messages</strong> of the <a href="../assets/component_documentation/quectel_lg290p03lgx80p03_gnss_protocol_specification_v1-1.pdf">GNSS Protocol Specification</a> manual. This protocol is used for outputting GNSS data, as detailed by the <a href="https://www.nmea.org/" target="_blank" rel="noopener">National Marine Electronics Association</a> organization.</p>
 <details class="abstract">
 <summary>List of Standard NMEA Messages</summary>
 <article style="text-align: center;" markdown>
@@ -3134,7 +3134,7 @@ The data structure of Quectel messages for the <code>NMEA</code> protocol.
 </details>
 </div>
 <div class="tabbed-block">
-<p>A full list of PQTM messages (proprietary NMEA messages defined by Quectel) supported by LG290P, is provided in section <strong>2.3. PQTM Messages</strong> of the <a href="../assets/component_documentation/Quectel_LG290P_GNSS_Protocol_Specification_v1-0.pdf">GNSS Protocol Specification</a> manual. This protocol is used to configure or read the settings for the LG290P GNSS module.</p>
+<p>A full list of PQTM messages (proprietary NMEA messages defined by Quectel) supported by LG290P, is provided in section <strong>2.3. PQTM Messages</strong> of the <a href="../assets/component_documentation/quectel_lg290p03lgx80p03_gnss_protocol_specification_v1-1.pdf">GNSS Protocol Specification</a> manual. This protocol is used to configure or read the settings for the LG290P GNSS module.</p>
 <details class="abstract">
 <summary>List of Proprietary Quectel Messages</summary>
 <article style="text-align: center;" markdown>
@@ -3348,7 +3348,7 @@ The data structure of Quectel messages for the <code>NMEA</code> protocol.
 </details>
 </div>
 <div class="tabbed-block">
-<p>A full list of compatible <code>RTCM v3</code> messages, is provided in section <strong>3. RTCM Protocol</strong> of the <a href="../assets/component_documentation/Quectel_LG290P_GNSS_Protocol_Specification_v1-0.pdf">GNSS Protocol Specification</a> manual. This protocol is used for transferring GNSS raw measurement data, as detailed by the <a href="https://www.rtcm.org/" target="_blank" rel="noopener">Radio Technical Commission for Maritime Services</a> organization.</p>
+<p>A full list of compatible <code>RTCM v3</code> messages, is provided in section <strong>3. RTCM Protocol</strong> of the <a href="../assets/component_documentation/quectel_lg290p03lgx80p03_gnss_protocol_specification_v1-1.pdf">GNSS Protocol Specification</a> manual. This protocol is used for transferring GNSS raw measurement data, as detailed by the <a href="https://www.rtcm.org/" target="_blank" rel="noopener">Radio Technical Commission for Maritime Services</a> organization.</p>
 <details class="abstract">
 <summary>List of Supported RTCMv3 <em>(MSM)</em> Messages</summary>
 <article style="text-align: center;" markdown>
@@ -3965,7 +3965,7 @@ The <code>COM</code> ports on the RTK Postcard.
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="July 9, 2025 00:28:41 UTC"><span class="timeago" datetime="2025-07-09T00:28:41+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="July 9, 2025 00:28:41 UTC">2025-07-09</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="September 15, 2025 17:58:23 UTC"><span class="timeago" datetime="2025-09-15T17:58:23+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="September 15, 2025 17:58:23 UTC">2025-09-15</span>
   </span>
 
     
