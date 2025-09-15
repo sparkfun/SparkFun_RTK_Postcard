@@ -6831,13 +6831,13 @@
 		)
 		(model "${SPARKFUN_KICAD_LIBRARY}/Footprints/SparkFun-3D-models/Connector/JST_SMD_1.25mm-4_Locking.step"
 			(offset
-				(xyz 0 1.5 0)
+				(xyz -1.25 0.78 0.036)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -11536,7 +11536,7 @@
 			(pintype "power_in")
 			(uuid "ca450c87-ab1f-4f53-a814-a51df515aaab")
 		)
-		(model "${KIPRJMOD}/LG290P.step"
+		(model "${SPARKFUN_KICAD_LIBRARY}/Footprints/SparkFun-3D-models/GPS/Quectel_LG290P.step"
 			(offset
 				(xyz 0 0 0)
 			)
