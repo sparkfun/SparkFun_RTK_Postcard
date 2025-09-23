@@ -5,7 +5,7 @@ icon: material/book-open-page-variant
 # Introduction
 <div class="grid cards desc" markdown>
 
--   <a href="https://www.sparkfun.com/products/26916">
+-   <a href="https://www.sparkfun.com/sparkfun-rtk-postcard.html">
 	**SparkFun RTK Postcard**<br>
 	**SKU:** GPS-26916
 
@@ -22,7 +22,7 @@ icon: material/book-open-page-variant
 	</article>
 
 	<article style="text-align: center;" markdown>
-	![QR code to product page](./assets/img/qr_code/product-low.png){ .tinyqr } [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/26916){ .md-button .md-button--primary }
+	![QR code to product page](./assets/img/qr_code/product-low.png){ .tinyqr } [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/sparkfun-rtk-postcard.html){ .md-button .md-button--primary }
 	</article>
 
 
@@ -34,11 +34,11 @@ icon: material/book-open-page-variant
 
 	With the [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware) that comes pre-loaded, users can seamlessly operate the RTK Postcard as a base station or rover. These modes also offer additional functions, based on the available, wireless communication options:
 
-	- The RTK Postcard can transmit or receive RTCMv3 messages locally by connecting one of our [SiK Telemetry radios](https://www.sparkfun.com/products/19032).
+	- The RTK Postcard can transmit or receive RTCMv3 messages locally by connecting one of our [SiK Telemetry radios](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html).
 	- Through WiFi or Bluetooth&trade;, the RTK Postcard can also function as an NTRIP caster or client.
 	- The RTK Postcard can transmit NMEA messages to a [graphical information software (GIS)](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/gis_software_android/) apps on any mobile device when paired as a Bluetooth&trade; device.
 
-	In addition to the RTK Postcard, we created the [Portability Shield](https://www.sparkfun.com/products/27510) for the convenience of users. Simply connecting these products, provides a 1.3” OLED display and a five-way button to navigate the configuration settings and display PNT data; a microSD card slot for data logging; and a LiPo battery charger with a fuel gauge to take the RTK Postcard *"on-the-go"*. All of these will operate plug-and-play without the need for new code.
+	In addition to the RTK Postcard, we created the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html) for the convenience of users. Simply connecting these products, provides a 1.3” OLED display and a five-way button to navigate the configuration settings and display PNT data; a microSD card slot for data logging; and a LiPo battery charger with a fuel gauge to take the RTK Postcard *"on-the-go"*. All of these will operate plug-and-play without the need for new code.
 
 	!!! info
 		The [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware) is open-source, so users can obtain, check, and even modify the device's functionality. This allows for easier feature expansion, bug maintenance, and longer device longevity.
@@ -64,8 +64,8 @@ To get started, users will need a few items. Some users may already have a few o
 <div class="annotate" markdown>
 
 - Computer and/or mobile device that is compatible with the operation of the [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware)
-- [USB 3.1 Cable A to C - 3 Foot](https://www.sparkfun.com/products/14743) - Used to power/interface with the SparkFun RTK Postcard (1)
-- [SparkFun RTK Postcard](https://www.sparkfun.com/products/26916)
+- [USB 3.1 Cable A to C - 3 Foot](https://www.sparkfun.com/usb-3-1-cable-a-to-c-3-foot.html) - Used to power/interface with the SparkFun RTK Postcard (1)
+- [SparkFun RTK Postcard](https://www.sparkfun.com/sparkfun-rtk-postcard.html)
 - GNSS Multi-Band Antenna
 
 </div>
@@ -75,7 +75,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 <div class="grid cards products" markdown>
 
--   <a href="https://www.sparkfun.com/products/14743">
+-   <a href="https://www.sparkfun.com/usb-3-1-cable-a-to-c-3-foot.html">
 	<figure markdown>
 	![USB 3.1 Cable A to C - 3 Foot](https://cdn.sparkfun.com/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg)
 	</figure>
@@ -85,7 +85,7 @@ To get started, users will need a few items. Some users may already have a few o
 	**USB 3.1 Cable A to C - 3 Foot**<br>
 	CAB-14743</a>
 
--   <a href="https://www.sparkfun.com/products/26916">
+-   <a href="https://www.sparkfun.com/sparkfun-rtk-postcard.html">
 	<figure markdown>
 	![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/0/3/2/26916-RTK-Postcard-Feature.jpg)
 	</figure>
@@ -100,11 +100,11 @@ To get started, users will need a few items. Some users may already have a few o
 
 
 ???+ tip "Recommended Accessories"
-	These products are recommended at minimum for users to get started with the [Portability Shield](https://www.sparkfun.com/products/27510) and [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware).
+	These products are recommended at minimum for users to get started with the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html) and [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware).
 
 	<div class="grid cards" markdown>
 
-	-   <a href="https://www.sparkfun.com/products/23847">
+	-   <a href="https://www.sparkfun.com/gnss-multi-band-l1-l2-l5-helical-antenna-sma.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/4/1/8/1/23847-Antenna-Feature.jpg)
 		</figure>
@@ -114,7 +114,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**GNSS Multi-Band L1/L2/L5 Helical Antenna (SMA)**<br>
 		GPS-23847</a>
 
-	-   <a href="https://www.sparkfun.com/products/27510">
+	-   <a href="https://www.sparkfun.com/sparkfun-portability-shield.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/6/9/2/27510-Portability-Shield-Feature.jpg)
 		</figure>
@@ -124,7 +124,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Portability Shield**<br>
 		DEV-27510</a>
 
-	-   <a href="https://www.sparkfun.com/products/116">
+	-   <a href="https://www.sparkfun.com/straight-header-male-pth-0-1in-40-pin.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/0/6/00116-02-L.jpg)
 		</figure>
@@ -160,7 +160,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/9325">
+		-   <a href="https://www.sparkfun.com/solder-lead-free-100-gram-spool.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/7/3/09325_9161-Solder_Lead_Free_-_100-gram_Spool-01.jpg)
 			</figure>
@@ -170,7 +170,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Solder Lead Free - 100-gram Spool**<br>
 			TOL-09325</a>
 
-		-   <a href="https://www.sparkfun.com/products/24063">
+		-   <a href="https://www.sparkfun.com/pinecil-soldering-iron-kit.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/4/3/8/5/KIT-24063-PINECIL-Soldering-Iron-Kit-Feature.jpg)
 			</figure>
@@ -188,7 +188,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/13854">
+		-   <a href="https://www.sparkfun.com/lithium-ion-battery-850mah.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/1/4/6/1/13854-01.jpg)
 			</figure>
@@ -198,7 +198,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Lithium Ion Battery - 850mAh**<br>
 			PRT-13854</a>
 
-		-   <a href="https://www.sparkfun.com/products/15107">
+		-   <a href="https://www.sparkfun.com/microsd-card-1gb-class-4.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/3/4/7/0/15107-microSD_Card_-_1GB__Class_4_-01.jpg)
 			</figure>
@@ -218,7 +218,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/21801">
+		-   <a href="https://www.sparkfun.com/gnss-multi-band-l1-l2-l5-surveying-antenna-tnc-spk6618h.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/5/9/7/SparkFun_GNSS_SPK6618H_Triband_Antenna_-_2-1.png)
 			</figure>
@@ -228,7 +228,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GNSS Multi-Band L1/L2/L5 Surveying Antenna - TNC (SPK6618H)**<br>
 			GPS-21801</a>
 
-		-   <a href="https://www.sparkfun.com/products/23847">
+		-   <a href="https://www.sparkfun.com/gnss-multi-band-l1-l2-l5-helical-antenna-sma.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/4/1/8/1/23847-Antenna-Feature.jpg)
 			</figure>
@@ -238,7 +238,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GNSS Multi-Band L1/L2/L5 Helical Antenna (SMA)**<br>
 			GPS-23847</a>
 
-		-   <a href="https://www.sparkfun.com/products/23848">
+		-   <a href="https://www.sparkfun.com/gnss-multi-band-l1-l2-l5-helical-antenna-sma-bt-t009.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/4/1/8/2/23848-GNS-Multi-Band-Helical-Antenna_Feature2.jpg)
 			</figure>
@@ -248,7 +248,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GNSS Multi-Band L1/L2/L5 Helical Antenna - SMA (BT-T009)**<br>
 			GPS-23848</a>
 
-		-   <a href="https://www.sparkfun.com/products/17108">
+		-   <a href="https://www.sparkfun.com/magmax2-active-multiband-gnss-magnetic-mount-antenna-aa-200.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/0/7/0/17108-AA.200_____MagmaX2_Active_Multiband_GNSS_Magnetic_Mount_Antenna-01A.jpg)
 			</figure>
@@ -265,7 +265,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/21281">
+		-   <a href="https://www.sparkfun.com/interface-cable-sma-female-to-sma-male-10m-rg58.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/0/6/5/21281-_CAB-_01.jpg)
 			</figure>
@@ -275,7 +275,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Interface Cable - SMA Female to SMA Male (10m, RG58)**<br>
 			CAB-21281</a>
 
-		-   <a href="https://www.sparkfun.com/products/21740">
+		-   <a href="https://www.sparkfun.com/reinforced-interface-cable-sma-male-to-tnc-male-10m.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/5/7/0/SparkFun_Reinforced_Interface_Cable_-_SMA_Male_to_TNC_Male_-_1.jpg)
 			</figure>
@@ -285,7 +285,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Reinforced Interface Cable - SMA Male to TNC Male (10m)**<br>
 			CAB-21740</a>
 
-		-   <a href="https://www.sparkfun.com/products/21739">
+		-   <a href="https://www.sparkfun.com/reinforced-interface-cable-sma-male-to-tnc-male-300mm.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/5/6/9/SparkFun_Reinforced_Interface_Cable_-_SMA_Male_to_TNC_Male_-_4.jpg)
 			</figure>
@@ -302,7 +302,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/21257">
+		-   <a href="https://www.sparkfun.com/gnss-magnetic-antenna-mount-5-8-11-tpi.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/0/2/7/21257-_PRT_M90SD_Magnetic_Stand-_01.jpg)
 			</figure>
@@ -312,7 +312,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GNSS Magnetic Antenna Mount - 5/8" 11-TPI**<br>
 			PRT-21257</a>
 
-		-   <a href="https://www.sparkfun.com/products/19576">
+		-   <a href="https://www.sparkfun.com/magnetic-mount-sma-2m.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/9/2/4/1/19576-SMA_antenna_Mag_Mount-_01.jpg)
 			</figure>
@@ -322,7 +322,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Magnetic Mount SMA - 2m**<br>
 			GPS-19576</a>
 
-		-   <a href="https://www.sparkfun.com/products/17519">
+		-   <a href="https://www.sparkfun.com/gps-antenna-ground-plate.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/5/9/3/17519-GPS_Antenna_Ground_Plate-01.jpg)
 			</figure>
@@ -332,7 +332,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GPS Antenna Ground Plate**<br>
 			GPS-17519</a>
 
-		-   <a href="https://www.sparkfun.com/products/22197">
+		-   <a href="https://www.sparkfun.com/gnss-antenna-mounting-hardware-kit.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/2/0/9/7/22197-_01.jpg)
 			</figure>
@@ -342,7 +342,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GNSS Antenna Mounting Hardware Kit**<br>
 			KIT-22197</a>
 
-		-   <a href="https://www.sparkfun.com/products/17546">
+		-   <a href="https://www.sparkfun.com/antenna-thread-adapter-1-4in-to-5-8in.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/4/2/7/17546-1_4in._to_5_8in._Adapter_for_5_8in._Thread-01.jpg)
 			</figure>
@@ -352,7 +352,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Antenna Thread Adapter - 1/4in. to 5/8in.**<br>
 			PRT-17546</a>
 
-		-   <a href="https://www.sparkfun.com/products/25795">
+		-   <a href="https://www.sparkfun.com/telescopic-surveying-pole.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/6/4/8/2/25795-Telescopic-Surveying-Pole-Front.jpg)
 			</figure>
@@ -373,7 +373,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/19032">
+		-   <a href="https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/8/6/3/4/19032-SiK_Telemetry_Radio_V3_-_915MHz__100mW-01.jpg)
 			</figure>
@@ -383,7 +383,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**SiK Telemetry Radio V3 - 915MHz, 100mW**<br>
 			WRL-19032</a>
 
-		-   <a href="https://www.sparkfun.com/products/20029">
+		-   <a href="https://www.sparkfun.com/sparkfun-loraserial-kit-915mhz-enclosed.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/9/7/9/0/SparkFun_LoRaSerial_Enclosed_-_20029-1.jpg)
 			</figure>
@@ -393,7 +393,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**SparkFun LoRaSerial Kit - 915MHz (Enclosed)**<br>
 			WRL-20029</a>
 
-		-   <a href="https://www.sparkfun.com/products/17239">
+		-   <a href="https://www.sparkfun.com/jst-ghr-04v-to-jst-ghr-06v-cable-1-25mm-pitch.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/2/2/2/17239-GHR-04V-S_to_GHR-06V-S_Cable_-_150mm-01.jpg)
 			</figure>
@@ -403,7 +403,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**JST-GHR-04V to JST-GHR-06V Cable - 1.25mm pitch**<br>
 			CAB-17239</a>
 
-		-   <a href="https://www.sparkfun.com/products/17854">
+		-   <a href="https://www.sparkfun.com/ghr-04v-s-to-ghr-06v-s-cable-100mm.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/7/0/3/4/17854-GHR-04V-S_to_GHR-06V-S_Cable_-_50mm-01.jpg)
 			</figure>
@@ -413,7 +413,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**GHR-04V-S to GHR-06V-S Cable - 100mm**<br>
 			CAB-17854</a>
 
-		-   <a href="https://www.sparkfun.com/products/17240">
+		-   <a href="https://www.sparkfun.com/breadboard-to-jst-ghr-04v-cable-4-pin-x-1-25mm-pitch.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/2/2/3/17240-Breadboard_to_GHR-04V-S_Cable_-_150mm-01.jpg)
 			</figure>
@@ -430,7 +430,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/15096">
+		-   <a href="https://www.sparkfun.com/sparkfun-serial-basic-breakout-ch340c-and-usb-c.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/3/4/5/2/15096-SparkFun_Serial_Basic_Breakout_-_CH340C_and_USB-C-01.jpg)
 			</figure>
@@ -440,7 +440,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**SparkFun Serial Basic Breakout - CH340C and USB-C**<br>
 			DEV-15096</a>
 
-		-   <a href="https://www.sparkfun.com/products/14050">
+		-   <a href="https://www.sparkfun.com/sparkfun-serial-basic-breakout-ch340g.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/1/8/8/8/14050-01.jpg)
 			</figure>
@@ -450,7 +450,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**SparkFun Serial Basic Breakout - CH340G**<br>
 			DEV-14050</a>
 
-		-   <a href="https://www.sparkfun.com/products/18289">
+		-   <a href="https://www.sparkfun.com/sparkfun-ftdi-starter-kit-3-3v.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/7/6/1/9/18289-SparkFun_FTDI_Starter_Kit_-_3.3V-01.jpg)
 			</figure>
@@ -467,7 +467,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/24060">
+		-   <a href="https://www.sparkfun.com/usb-c-to-usb-c-silicone-power-charging-cable-3m.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/4/3/8/2/CAB-24060-USBC-to-USBC-Silicone-Power-Charging-Cable-Feature.jpg)
 			</figure>
@@ -477,7 +477,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**USB-C to USB-C Silicone Power Charging Cable - 3m**<br>
 			CAB-24060</a>
 
-		-   <a href="https://www.sparkfun.com/products/14743">
+		-   <a href="https://www.sparkfun.com/usb-3-1-cable-a-to-c-3-foot.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg)
 			</figure>
@@ -487,7 +487,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**USB 3.1 Cable A to C - 3 Foot**<br>
 			CAB-14743</a>
 
-		-   <a href="https://www.sparkfun.com/products/21271">
+		-   <a href="https://www.sparkfun.com/sparkfun-4-in-1-multi-usb-cable-usb-c-host.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/0/4/9/21271-_CAB-_01.jpg)
 			</figure>
@@ -497,7 +497,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**SparkFun 4-in-1 Multi-USB Cable - USB-C Host**<br>
 			CAB-21271</a>
 
-		-   <a href="https://www.sparkfun.com/products/21272">
+		-   <a href="https://www.sparkfun.com/sparkfun-4-in-1-multi-usb-cable-usb-a-host.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/0/5/0/21272-_CAB-_01.jpg)
 			</figure>
@@ -534,7 +534,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 	<div class="grid cards" markdown>
 
-	-   <a href="https://www.sparkfun.com/products/9325">
+	-   <a href="https://www.sparkfun.com/solder-lead-free-100-gram-spool.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/7/3/09325_9161-Solder_Lead_Free_-_100-gram_Spool-01.jpg)
 		</figure>
@@ -544,7 +544,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**Solder Lead Free - 100-gram Spool**<br>
 		TOL-09325</a>
 
-	-   <a href="https://www.sparkfun.com/products/27147">
+	-   <a href="https://www.sparkfun.com/ifixit-fixhub-power-series-portable-soldering-station.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/3/0/0/TOL-27147-Ifixit-Portable-Soldering-Station-Feature2.jpg)
 		</figure>
@@ -554,7 +554,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**iFixit FixHub - Power Series Portable Soldering Station**<br>
 		TOL-27147</a>
 
-	-   <a href="https://www.sparkfun.com/products/27510">
+	-   <a href="https://www.sparkfun.com/sparkfun-portability-shield.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/6/9/2/27510-Portability-Shield-Feature.jpg)
 		</figure>
@@ -564,7 +564,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Portability Shield**<br>
 		DEV-27510</a>
 
-	-   <a href="https://www.sparkfun.com/products/116">
+	-   <a href="https://www.sparkfun.com/straight-header-male-pth-0-1in-40-pin.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/0/6/00116-02-L.jpg)
 		</figure>
@@ -574,7 +574,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**Break Away Headers - Straight**<br>
 		PRT-00116</a>
 
-	-   <a href="https://www.sparkfun.com/products/11896">
+	-   <a href="https://www.sparkfun.com/straight-header-female-pth-0-1in-10-pin.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/r/455-455/assets/parts/8/1/1/8/11896-01.jpg)
 		</figure>
@@ -584,7 +584,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**Header - 10-pin Female (PTH, 0.1")**<br>
 		PRT-11896</a>
 
-	-   <a href="https://www.sparkfun.com/products/11375">
+	-   <a href="https://www.sparkfun.com/hook-up-wire-assortment-stranded-22-awg.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/7/1/2/0/11375-Hook-Up_Wire_-_Assortment__Solid_Core__22_AWG_-01.jpg)
 		</figure>
@@ -598,7 +598,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 
 	??? note "Batteries"
-		When using the [Portability Shield](https://www.sparkfun.com/products/27510), users can attach a single-cell LiPo [battery](https://www.sparkfun.com/categories/54) to turn the boards into a mobile device.
+		When using the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html), users can attach a single-cell LiPo [battery](https://www.sparkfun.com/categories/54) to turn the boards into a mobile device.
 
 		???+ tip "Minimum Requirements"
 			=== "Battery Voltage"
@@ -615,7 +615,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 		<div class="grid cards" markdown>
 
-		-   <a href="https://www.sparkfun.com/products/13851">
+		-   <a href="https://www.sparkfun.com/lithium-ion-battery-400mah.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/1/4/5/8/13857-01.jpg)
 			</figure>
@@ -625,7 +625,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Lithium Ion Battery - 400mAh**<br>
 			PRT-13851</a>
 
-		-   <a href="https://www.sparkfun.com/products/13854">
+		-   <a href="https://www.sparkfun.com/lithium-ion-battery-850mah.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/1/4/6/1/13854-01.jpg)
 			</figure>
@@ -635,17 +635,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Lithium Ion Battery - 850mAh**<br>
 			PRT-13854</a>
 
-		-   <a href="https://www.sparkfun.com/products/18286">
-			<figure markdown>
-			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/7/6/0/6/17748-Lithium_Ion_Battery_-_1250_mAh__IEC62133_certified_-01.jpg)
-			</figure>
-
-			---
-
-			**Lithium Ion Battery - 1250mAh (IEC62133 Certified)**<br>
-			PRT-18286</a>
-
-		-   <a href="https://www.sparkfun.com/products/26059">
+		-   <a href="https://www.sparkfun.com/lithium-ion-battery-1500mah-iec62133-certified.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/6/8/8/0/PRT-26059-Lithium-Ion-Battery-Feature.jpg)
 			</figure>
@@ -655,7 +645,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Lithium Ion Battery - 1500mAh (IEC62133 Certified)**<br>
 			PRT-26059</a>
 
-		-   <a href="https://www.sparkfun.com/products/13855">
+		-   <a href="https://www.sparkfun.com/lithium-ion-battery-2ah.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/1/4/6/2/13855-01.jpg)
 			</figure>
@@ -665,7 +655,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Lithium Ion Battery - 2Ah**<br>
 			PRT-13855</a>
 
-		-   <a href="https://www.sparkfun.com/products/13856">
+		-   <a href="https://www.sparkfun.com/lithium-ion-battery-6ah.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/1/4/6/3/13856-01.jpg)
 			</figure>
@@ -675,7 +665,7 @@ To get started, users will need a few items. Some users may already have a few o
 			**Lithium Ion Battery - 6Ah**<br>
 			PRT-13856</a>
 
-		-   <a href="https://www.sparkfun.com/products/18769">
+		-   <a href="https://www.sparkfun.com/battery-holder-3xaa-with-cover-and-switch-jst-connector.html">
 			<figure markdown>
 			![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/8/3/2/5/14188-01.jpg)
 			</figure>
@@ -694,7 +684,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 	<div class="grid cards" markdown>
 
-	-   <a href="https://www.sparkfun.com/products/23453">
+	-   <a href="https://www.sparkfun.com/sparkfun-qwiic-oled-1-3in-128x64.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg)
 		</figure>
@@ -704,7 +694,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Qwiic OLED - (1.3in., 128x64)**<br>
 		LCD-23453</a>
 
-	-   <a href="https://www.sparkfun.com/products/27576">
+	-   <a href="https://www.sparkfun.com/sparkfun-qwiic-navigation-switch.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/)
 		</figure>
@@ -714,7 +704,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Qwiic Navigation Switch**<br>
 		PRT-27576</a>
 
-	-   <a href="https://www.sparkfun.com/products/26851">
+	-   <a href="https://www.sparkfun.com/sparkfun-qwiic-directional-pad.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/7/9/6/9/26851-Qwiic-Directional-Pad-Feature.jpg)
 		</figure>
@@ -724,7 +714,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Qwiic Directional Pad**<br>
 		PRT-26851</a>
 
-	-   <a href="https://www.sparkfun.com/products/15081">
+	-   <a href="https://www.sparkfun.com/sparkfun-qwiic-cable-kit.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/3/4/3/1/15081-_01.jpg)
 		</figure>
@@ -734,7 +724,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Qwiic Cable Kit**<br>
 		KIT-15081</a>
 
-	-   <a href="https://www.sparkfun.com/products/15109">
+	-   <a href="https://www.sparkfun.com/qwiic-cable-grove-adapter-100mm.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/3/4/7/5/15109-Qwiic_Cable_-_Grove_Adapter__150mm_-01.jpg)
 		</figure>
@@ -744,7 +734,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**Qwiic Cable - Grove Adapter (100mm)**<br>
 		PRT-15109</a>
 
-	-   <a href="https://www.sparkfun.com/products/19833">
+	-   <a href="https://www.sparkfun.com/sparkfun-micro-pressure-sensor-bmp384-qwiic.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/r/455-455/assets/parts/1/9/5/4/5/19833_DiagEdited.jpg)
 		</figure>
@@ -754,7 +744,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**SparkFun Micro Pressure Sensor - BMP384 (Qwiic)**<br>
 		SEN-19833</a>
 
-	-   <a href="https://www.sparkfun.com/products/16842">
+	-   <a href="https://www.sparkfun.com/sparkfun-qwiic-button-green-led.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/r/455-455/assets/parts/1/5/7/6/7/16842-SparkFun_Qwiic_Button_-_Green_LED-01.jpg)
 		</figure>
@@ -849,7 +839,7 @@ To get started, users will need a few items. Some users may already have a few o
 
 	<div class="grid cards" markdown>
 
-	-   <a href="https://www.sparkfun.com/products/27147">
+	-   <a href="https://www.sparkfun.com/ifixit-fixhub-power-series-portable-soldering-station.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/3/0/0/TOL-27147-Ifixit-Portable-Soldering-Station-Feature2.jpg)
 		</figure>
@@ -859,7 +849,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**iFixit FixHub - Power Series Portable Soldering Station**<br>
 		TOL-27147</a>
 
-	-   <a href="https://www.sparkfun.com/products/9200">
+	-   <a href="https://www.sparkfun.com/hobby-knife.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/6/4/6/09200-Hobby_Knife-01.jpg)
 		</figure>
@@ -869,7 +859,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**Hobby Knife**<br>
 		TOL-09200</a>
 
-	-   <a href="https://www.sparkfun.com/products/14579">
+	-   <a href="https://www.sparkfun.com/2-4ghz-duck-antenna-rp-sma.html79">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/2/7/2/5/14579-Chip_Quik_No-Clean_Flux_Pen_-_10mL-01.jpg)
 		</figure>
@@ -879,7 +869,7 @@ To get started, users will need a few items. Some users may already have a few o
 		**Chip Quik No-Clean Flux Pen - 10mL**<br>
 		TOL-14579</a>
 
-	-   <a href="https://www.sparkfun.com/products/9327">
+	-   <a href="https://www.sparkfun.com/solder-wick-2-5ft-generic.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/8/7/5/09327-Solder_Wick__2_5ft._-_Generic-01.jpg)
 		</figure>

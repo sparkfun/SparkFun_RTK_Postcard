@@ -99,7 +99,7 @@ From the available `COM` ports for the CH342, select the port labeled `B` to acc
 
 ## Arduino IDE
 !!! tip
-	For first-time users, who have never programmed before and are looking to use the Arduino IDE, we recommend beginning with the <a href="https://www.sparkfun.com/products/15631">SparkFun Inventor's Kit (SIK)</a>, which is designed to help users get started programming with the Arduino IDE.
+	For first-time users, who have never programmed before and are looking to use the Arduino IDE, we recommend beginning with the <a href="https://www.sparkfun.com/sparkfun-inventor-s-kit-for-arduino-uno-v4-1.html">SparkFun Inventor's Kit (SIK)</a>, which is designed to help users get started programming with the Arduino IDE.
 
 Most users may already be familiar with the Arduino IDE and its use. However, for those of you who have never heard the name *Arduino* before, feel free to check out the [Arduino website](https://www.arduino.cc/en/Guide/HomePage). To get started with using the Arduino IDE, check out our tutorials below:
 

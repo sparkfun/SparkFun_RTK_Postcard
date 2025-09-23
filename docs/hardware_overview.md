@@ -3,7 +3,7 @@ icon: material/cog
 ---
 
 ## :material-folder-cog: Design Files
-The SparkFun RTK Postcard board's dimensions, pin layout, and connectors are similar to our very popular [SparkFun GPS-RTK-SMA Breakout - ZED-F9P (Qwiic)](https://www.sparkfun.com/products/16481) and [SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic)](https://www.sparkfun.com/products/26620). The board features multiple UART ports, which are accessible through the USB-C connector, [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins, and 4-pin locking JST connector. Users can also interface with the board through the 19 [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins that are broken out around the edge of the board. For the GNSS antenna, an SMA antenna connector is provided on the edge of the board; additionally, users can rework the board to utilize the u.fl connector instead. We also provide two 4-pin JST Qwiic connectors for future use, to operate the board as a peripheral device.
+The SparkFun RTK Postcard board's dimensions, pin layout, and connectors are similar to our very popular [SparkFun GPS-RTK-SMA Breakout - ZED-F9P (Qwiic)](https://www.sparkfun.com/sparkfun-gps-rtk-sma-breakout-zed-f9p-qwiic.html) and [SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic)](https://www.sparkfun.com/sparkfun-quadband-gnss-rtk-breakout-lg290p-qwiic.html). The board features multiple UART ports, which are accessible through the USB-C connector, [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins, and 4-pin locking JST connector. Users can also interface with the board through the 19 [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins that are broken out around the edge of the board. For the GNSS antenna, an SMA antenna connector is provided on the edge of the board; additionally, users can rework the board to utilize the u.fl connector instead. We also provide two 4-pin JST Qwiic connectors for future use, to operate the board as a peripheral device.
 
 
 <!-- Import the component -->
@@ -203,7 +203,7 @@ Below, is a general summary of the power circuitry for the board:
 
 - **`5V`** - The voltage from the USB-C connector, usually **5V**.
 	- Can be utilized as the primary power source for the entire board.
-	- When connected to the [Portability Shield](https://www.sparkfun.com/products/27510), this pin used to provide power between the boards. (1)
+	- When connected to the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html), this pin used to provide power between the boards. (1)
 - **`3V3`** - 3.3V power rail, which powers the ESP32 Pico-Mini module, LG290P GNSS module, backup battery, and LEDs.
 	- Power can also be distributed to/from any of the JST connectors *(Qwiic or `UART3`)* or the `3V3` PTH pin.
 		- For power that is supplied through these connections, the LG290P has the tightest voltage supply requirement of **3.15–3.45V**.
@@ -256,7 +256,7 @@ Below, is a general summary of the power circuitry for the board:
 	For more details, users can reference the [schematic](./assets/board_files/schematic.pdf) and the datasheets of the individual components on the board.
 
 !!! tip "Portability Shield"
-	When used in conjunction with the [Portability Shield](https://www.sparkfun.com/products/27510), users should be aware of the following:
+	When used in conjunction with the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html), users should be aware of the following:
 
 	- To charge the battery, users must provide adequate power through the `5V` pin. This is most easily done by powering the boards from the USB-C connector.
 	- When operating the boards with the battery power, users must ensure that the switch behind the OLED display is in the `On` position. This will allow the battery power to feedback to the RTK Postcard through the `5V` pin; and over to the RT9080 LDO to provide a regulated 3.3V to its primary components.
@@ -357,7 +357,7 @@ The ESP32 Pico-Mini module on the RTK Postcard.
 
 
 ### Peripherals and I/O Pins
-The ESP32 Pico-Mini module features *27 multifunctional GPIO* pins, of which, **11 I/O pins** broken out into [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins on the RTK Postcard. Meanwhile, others are utilized to interface with the LG290P GNSS receiver or other components on the board *(i.e. USB connector, Qwiic connector, etc.)*. All of the RTK Postcard [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins have a .1" pitch spacing for standard headers and their pin layout is compatible with our [Portability Shield](https://www.sparkfun.com/products/27510).
+The ESP32 Pico-Mini module features *27 multifunctional GPIO* pins, of which, **11 I/O pins** broken out into [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins on the RTK Postcard. Meanwhile, others are utilized to interface with the LG290P GNSS receiver or other components on the board *(i.e. USB connector, Qwiic connector, etc.)*. All of the RTK Postcard [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through Holes") pins have a .1" pitch spacing for standard headers and their pin layout is compatible with our [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html).
 
 
 <div class="grid" markdown>
@@ -1371,10 +1371,10 @@ The u.fl connector for the **[PPS output](#pps-output)** from the RTK Postcard.
 
 
 ## JST Connector
-The RTK Postcard features a 4-pin [JST GH connector](./assets/component_documentation/JST-GH_datasheet.pdf), which is polarized and locking. Users can access the pins of the `UART3` port, through the JST connector with our [breadboard cable](https://www.sparkfun.com/products/17240)(1) or through the PTH pins. The pin layout of the JST connector is compatible with many of our [serial radios and adapter cables](../hardware_assembly/#radio-transceivers).
+The RTK Postcard features a 4-pin [JST GH connector](./assets/component_documentation/JST-GH_datasheet.pdf), which is polarized and locking. Users can access the pins of the `UART3` port, through the JST connector with our [breadboard cable](https://www.sparkfun.com/breadboard-to-jst-ghr-04v-cable-4-pin-x-1-25mm-pitch.html)(1) or through the PTH pins. The pin layout of the JST connector is compatible with many of our [serial radios and adapter cables](../hardware_assembly/#radio-transceivers).
 { .annotate }
 
-1. <a href="https://www.sparkfun.com/products/17240">
+1. <a href="https://www.sparkfun.com/breadboard-to-jst-ghr-04v-cable-4-pin-x-1-25mm-pitch.html">
 	<figure markdown>
 	![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/2/2/3/17240-Breadboard_to_GHR-04V-S_Cable_-_150mm-01.jpg){ width="300" }
 	</figure>
@@ -1565,7 +1565,7 @@ The jumpers on the back of the RTK Postcard.
 - **`I2C-EXT`** - This jumper can be cut to disconnect the pull-up resistors on the `SCL_1` and `SDA_1` connections of the Qwiic connectors.
 - **`SHLD`** - This jumper can be cut to disconnect the shielding of the USB-C connector from the `GND` plane of the board
 - **`VSEL`** - This jumper can be modified to configure/disconnect the `VCC` pin of the 4-pin locking JST connector to/from `3V3` or `5V` power rails.
-	- Users should also keep in mind that connecting the jumper to the `5V` power rail, could include the voltage provided by the LiPo battery from the [Portability Shield](https://www.sparkfun.com/products/27510).
+	- Users should also keep in mind that connecting the jumper to the `5V` power rail, could include the voltage provided by the LiPo battery from the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html).
 - **`STAT`** - This jumper can be cut to remove power from the green LED, indicating the operational status for the [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware).
 - **`PWR`** - This jumper can be cut to remove power from the red, power LED.
 - **`PPS`** - This jumper can be cut to remove power from the yellow LED, which is connected to the [PPS](https://en.wikipedia.org/wiki/Pulse-per-second_signal "Pulse Per Second") signal.

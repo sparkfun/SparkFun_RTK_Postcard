@@ -69,7 +69,7 @@ The JST connector on the Quad-band GNSS RTK board, breaks out the `UART3` port o
 <figure markdown>
 [![Device connected to the JST connector](./assets/img/hookup_guide/assembly-radio_setup.jpg){ width="400" }](./assets/img/hookup_guide/assembly-radio_setup.jpg "Click to enlarge")
 <figcaption markdown>
-The [Telemetry Radio v3](https://www.sparkfun.com/products/19032) connected to the RTK Postcard.
+The [Telemetry Radio v3](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html) connected to the RTK Postcard.
 </figcaption>
 </figure>
 
@@ -126,10 +126,10 @@ When connecting the RTK Postcard to other products, users should be aware of the
 
 
 ### Radio Transceivers
-We have designed the locking JST connector to be plug-n-play with the following devices and cables. However, for the [SiK Telemetry Radio v3](https://www.sparkfun.com/products/19032), users should [modify the `VSEL` jumper](../hardware_overview/#jumpers) (1) on the back of the board to enable a 5V output on the `VCC` pin. Below, is a table summarizing the pin connections of the radios.
+We have designed the locking JST connector to be plug-n-play with the following devices and cables. However, for the [SiK Telemetry Radio v3](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html), users should [modify the `VSEL` jumper](../hardware_overview/#jumpers) (1) on the back of the board to enable a 5V output on the `VCC` pin. Below, is a table summarizing the pin connections of the radios.
 { .annotate }
 
-1. While the [SiK Telemetry Radio v3](https://www.sparkfun.com/products/19032) may function with a **3.3V** input, their specifications stipulate that a **5V** power supply be provided.
+1. While the [SiK Telemetry Radio v3](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html) may function with a **3.3V** input, their specifications stipulate that a **5V** power supply be provided.
 
 <article style="text-align: center;" markdown>
 
@@ -240,7 +240,7 @@ We have designed the locking JST connector to be plug-n-play with the following 
 
 	<div class="grid cards" markdown>
 
-	-   <a href="https://www.sparkfun.com/products/19032">
+	-   <a href="https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/8/6/3/4/19032-SiK_Telemetry_Radio_V3_-_915MHz__100mW-01.jpg)
 		</figure>
@@ -250,7 +250,7 @@ We have designed the locking JST connector to be plug-n-play with the following 
 		**SiK Telemetry Radio V3 - 915MHz, 100mW**<br>
 		WRL-19032</a>
 
-	-   <a href="https://www.sparkfun.com/products/20029">
+	-   <a href="https://www.sparkfun.com/sparkfun-loraserial-kit-915mhz-enclosed.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/9/7/9/0/SparkFun_LoRaSerial_Enclosed_-_20029-1.jpg)
 		</figure>
@@ -260,7 +260,7 @@ We have designed the locking JST connector to be plug-n-play with the following 
 		**SparkFun LoRaSerial Kit - 915MHz (Enclosed)**<br>
 		WRL-20029</a>
 
-	-   <a href="https://www.sparkfun.com/products/17239">
+	-   <a href="https://www.sparkfun.com/jst-ghr-04v-to-jst-ghr-06v-cable-1-25mm-pitch.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/6/2/2/2/17239-GHR-04V-S_to_GHR-06V-S_Cable_-_150mm-01.jpg)
 		</figure>
@@ -270,7 +270,7 @@ We have designed the locking JST connector to be plug-n-play with the following 
 		**JST-GHR-04V to JST-GHR-06V Cable - 1.25mm pitch**<br>
 		CAB-17239</a>
 
-	-   <a href="https://www.sparkfun.com/products/17854">
+	-   <a href="https://www.sparkfun.com/ghr-04v-s-to-ghr-06v-s-cable-100mm.html">
 		<figure markdown>
 		![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/1/7/0/3/4/17854-GHR-04V-S_to_GHR-06V-S_Cable_-_50mm-01.jpg)
 		</figure>

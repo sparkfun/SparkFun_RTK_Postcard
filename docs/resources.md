@@ -7,7 +7,7 @@ icon: material/book-open-page-variant
 <div class="grid cards" markdown>
 
 - 
-	- :sfe-logo: [Product Page](https://www.sparkfun.com/products/26916)
+	- :sfe-logo: [Product Page](https://www.sparkfun.com/sparkfun-rtk-postcard.html)
 	- :material-folder-cog: Design Files:
 		- :fontawesome-solid-file-pdf: [Schematic](./assets/board_files/schematic.pdf)
 		- :fontawesome-solid-file-pdf: [Board Dimensions](./assets/board_files/dimensions.pdf)

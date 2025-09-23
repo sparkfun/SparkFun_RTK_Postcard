@@ -1,11 +1,11 @@
 SparkFun RTK Postcard
 ========================================
 
-[![SparkFun RTK Postcard](https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/0/3/2/26916-RTK-Postcard-Feature.jpg)](https://www.sparkfun.com/products/26916)
+[![SparkFun RTK Postcard](https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/0/3/2/26916-RTK-Postcard-Feature.jpg)](https://www.sparkfun.com/sparkfun-rtk-postcard.html)
 
-[*SparkFun RTK Postcard (GPS-26916)*](https://www.sparkfun.com/products/26916)
+[*SparkFun RTK Postcard (GPS-26916)*](https://www.sparkfun.com/sparkfun-rtk-postcard.html)
 
-Designed and manufactured in Boulder, CO USA, the [SparkFun RTK Postcard](https://www.sparkfun.com/products/26916) is a compact development board for your high-precision positioning and navigation needs. This board combines the Quectel LG290P GNSS RTK receiver with an Espressif ESP32-PICO-MINI-02 MCU module, running our latest [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware). The ESP32 provides the SparkFun Postcard with WiFi and Bluetooth&trade; connectivity to operate as an NTRIP caster or client. Meanwhile, the 4-pin locking JST-GH connector allows users to transmit or receive RTCMv3 messages for RTK corrections from a local base station.
+Designed and manufactured in Boulder, CO USA, the [SparkFun RTK Postcard](https://www.sparkfun.com/sparkfun-rtk-postcard.html) is a compact development board for your high-precision positioning and navigation needs. This board combines the Quectel LG290P GNSS RTK receiver with an Espressif ESP32-PICO-MINI-02 MCU module, running our latest [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware). The ESP32 provides the SparkFun Postcard with WiFi and Bluetooth&trade; connectivity to operate as an NTRIP caster or client. Meanwhile, the 4-pin locking JST-GH connector allows users to transmit or receive RTCMv3 messages for RTK corrections from a local base station.
 
 - The LG290P module is a quad-band, multi-constellation, high-precision, RTK GNSS receiver. The module can simultaneously receive signals from the `L1`, `L2`, `L5`, and `L6`/`E6` frequency bands of the GPS, GLONASS, Galileo, BDS, QZSS, and NavIC GNSS constellations. In addition, the module supports SBAS augmentation systems (WASS, EGNOS, BDSBAS, MSAS, GAGAN, and SDCM), PPP services* (BDS PPP-B2b, QZSS CLAS, MADOCA-PPP, and Galileo HAS), RTCM, and RTK corrections for precision navigation with a fast convergence time and reliable performance. Connect with ease using a variety of interfaces, including UART, SPI*, and I2C*. 
 
@@ -13,11 +13,11 @@ Designed and manufactured in Boulder, CO USA, the [SparkFun RTK Postcard](https:
 
 With the [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware) that comes pre-loaded, users can seamlessly operate the RTK Postcard as a base station or rover. These modes also offer additional functions, based on the available, wireless communication options:
 
-- The RTK Postcard can transmit or receive RTCMv3 messages locally by connecting one of our [SiK Telemetry radios](https://www.sparkfun.com/products/19032).
+- The RTK Postcard can transmit or receive RTCMv3 messages locally by connecting one of our [SiK Telemetry radios](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html).
 - Through WiFi or Bluetooth&trade;, the RTK Postcard can also function as an NTRIP caster or client.
 - The RTK Postcard can transmit NMEA messages to a [graphical information software (GIS)](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/gis_software_android/) apps on any mobile device when paired as a Bluetooth&trade; device.
 
-In addition to the RTK Postcard, we created the [Portability Shield](https://www.sparkfun.com/products/27510) for the convenience of users. Simply connecting these products, provides a 1.3” OLED display and a five-way button to navigate the configuration settings and display PNT data; a microSD card slot for data logging; and a LiPo battery charger with a fuel gauge to take the RTK Postcard *"on-the-go"*. All of these will operate plug-and-play without the need for new code.
+In addition to the RTK Postcard, we created the [Portability Shield](https://www.sparkfun.com/sparkfun-portability-shield.html) for the convenience of users. Simply connecting these products, provides a 1.3” OLED display and a five-way button to navigate the configuration settings and display PNT data; a microSD card slot for data logging; and a LiPo battery charger with a fuel gauge to take the RTK Postcard *"on-the-go"*. All of these will operate plug-and-play without the need for new code.
 
 > [!NOTE]
 > The [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware) is open-source, so users can obtain, check, and even modify the device's functionality. This allows for easier feature expansion, bug maintenance, and longer device longevity.
@@ -62,8 +62,8 @@ Repository Contents
 Product Variants
 ----------------
 
-* [GPS-26916](https://www.sparkfun.com/products/26916) - v1.0, Initial Release
-* [GPS-26620](https://www.sparkfun.com/products/26620) - SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic) *(w/o ESP32)*
+* [GPS-26916](https://www.sparkfun.com/sparkfun-rtk-postcard.html) - v1.0, Initial Release
+* [GPS-26620](https://www.sparkfun.com/sparkfun-quadband-gnss-rtk-breakout-lg290p-qwiic.html) - SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic) *(w/o ESP32)*
 
 Version History
 ---------------
