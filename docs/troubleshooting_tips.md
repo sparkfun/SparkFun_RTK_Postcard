@@ -9,10 +9,10 @@ icon: sfe-logo
 	[SparkFun Technical Assistance Page](https://www.sparkfun.com/technical_assistance){ .md-button .md-button--primary }
 	</article>
 
-	If you can't find what you need there, the [SparkFun GNSS Forum](https://forum.sparkfun.com/viewforum.php?f=116) is a great place to ask questions.
+	If you can't find what you need there, the [SparkFun GNSS Forum](https://community.sparkfun.com/c/global-positioning-system-gps/96) is a great place to ask questions.
 
 	!!! info "Account Registration Required"
-		If this is your first visit to our forum, you'll need to create a [Forum Account](https://forum.sparkfun.com/ucp.php?mode=register) to post questions.
+		If this is your first visit to our forum, you'll need to create a [Forum Account](https://community.sparkfun.com/signup) to post questions.
 
 
 
