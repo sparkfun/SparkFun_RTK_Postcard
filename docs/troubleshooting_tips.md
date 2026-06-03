@@ -15,6 +15,9 @@ icon: sfe-logo
 		If this is your first visit to our forum, you'll need to create a [Forum Account](https://community.sparkfun.com/signup) to post questions.
 
 
+## Antenna Issues
+At a minimum, we recommend utilizing an active L1/L2/L5 antenna with the LG290P. Some customers have reported that the LG290P remains in an `RTK Float` status, when utilizing GNSS antennas that don't meet these specifications. This is because the GNSS receiver is having issues resolving the ambiguities of the signals not being provided from the GNSS antenna. To resolve this issue, mask the signals and satellites in the GNSS receiver configuration. Limit the signals and satellites to only the capabilities of the GNSS antenna.
+
 
 <!-- QR Code for Hookup Guide (Displayed when printed) -->
 <article style="text-align: center;" markdown>
