@@ -32,7 +32,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Instal pgnquant for optimize plugin
+      - name: Install pgnquant for optimize plugin
         run: sudo apt-get install pngquant
 
       - name: Set up Python runtime
@@ -41,7 +41,7 @@ jobs:
           python-version: 3.x
 
       - name: Install Python dependencies
-        run: pip install mkdocs-monorepo-plugin mkdocs-redirects mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 Pillow 'mkdocs-material[imaging]'
+        run: pip install -r requirements.txt
 
       - name: Set up build cache
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
@@ -52,11 +52,8 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - name: Install Insiders build
-        env:
-          MKDOCS_TOKEN: ${{ secrets.MKDOCS_SECRET }} 
-        run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --clean
+      - name: Build Webpage
+        run: mkdocs gh-deploy --force
 
 
   # Deploys the documentation files from the gh-pages branch to GitHub Pages
