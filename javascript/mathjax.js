@@ -3,9 +3,7 @@ window.MathJax = {
       inlineMath: [["\\(", "\\)"]],
       displayMath: [["\\[", "\\]"]],
       processEscapes: true,
-      processEnvironments: true,
-      // No Equation Numbering
-      tags: 'none'
+      processEnvironments: true
     },
     options: {
       ignoreHtmlClass: ".*|",
@@ -14,6 +12,8 @@ window.MathJax = {
   };
   
   document$.subscribe(() => { 
+    MathJax.startup.output.clearCache()
+    MathJax.typesetClear()
+    MathJax.texReset()
     MathJax.typesetPromise()
   })
-  
