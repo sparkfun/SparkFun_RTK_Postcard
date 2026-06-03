@@ -7,9 +7,7 @@ The USB connection can be utilized for serial communication and configuring the 
 
 <figure markdown>
 [![RTK Postcard USB connection](./assets/img/hookup_guide/assembly-usb.jpg){ width="400" }](./assets/img/hookup_guide/assembly-usb.jpg "Click to enlarge")
-<figcaption markdown>
-The RTK Postcard with USB-C cable being attached.
-</figcaption>
+<figcaption markdown>The RTK Postcard with USB-C cable being attached.</figcaption>
 </figure>
 
 
@@ -35,9 +33,7 @@ In order to receive [GNSS](https://en.wikipedia.org/wiki/Satellite_navigation "G
 
 <figure markdown>
 [![Helical antenna](./assets/img/hookup_guide/assembly-antenna_helical.jpg){ width="400" }](./assets/img/hookup_guide/assembly-antenna_helical.jpg "Click to enlarge")
-<figcaption markdown>
-A compact, helical GNSS antenna attached to the SMA connector on the RTK Postcard.
-</figcaption>
+<figcaption markdown>A compact, helical GNSS antenna attached to the SMA connector on the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -47,9 +43,7 @@ A compact, helical GNSS antenna attached to the SMA connector on the RTK Postcar
 
 <figure markdown>
 [![Survey antenna](./assets/img/hookup_guide/assembly-antenna_ufo.jpg){ width="400" }](./assets/img/hookup_guide/assembly-antenna_ufo.jpg "Click to enlarge")
-<figcaption markdown>
-A GNSS survey antenna attached to the SMA connector on the RTK Postcard.
-</figcaption>
+<figcaption markdown>A GNSS survey antenna attached to the SMA connector on the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -59,7 +53,7 @@ A GNSS survey antenna attached to the SMA connector on the RTK Postcard.
 
 
 ## JST Connector (`UART3`)
-The JST connector on the Quad-band GNSS RTK board, breaks out the `UART3` port of the LG290P GNSS module. In most circumstances, users will utilize the JST connector to interface with one of our radios to transmit or receive RTK correction data.
+The JST connector on the Quad-band GNSS RTK board, breaks out the `UART3` port of the LG290P GNSS module. In certain circumstances, users may need to utilize the JST connector to transmit or receive RTK correction data with one of our radios.
 
 
 <div class="grid" markdown>
@@ -68,9 +62,7 @@ The JST connector on the Quad-band GNSS RTK board, breaks out the `UART3` port o
 
 <figure markdown>
 [![Device connected to the JST connector](./assets/img/hookup_guide/assembly-radio_setup.jpg){ width="400" }](./assets/img/hookup_guide/assembly-radio_setup.jpg "Click to enlarge")
-<figcaption markdown>
-The [Telemetry Radio v3](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html) connected to the RTK Postcard.
-</figcaption>
+<figcaption markdown>The [Telemetry Radio v3](https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html) connected to the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -197,9 +189,7 @@ We have designed the locking JST connector to be plug-n-play with the following 
 
 	<figure markdown>
 	[![UART w/ Flow Control](https://docs.sparkfun.com/SparkFun_LoRaSerial/img/SAMD21%20Flow%20control.png){ width="400" }](https://docs.sparkfun.com/SparkFun_LoRaSerial/img/SAMD21%20Flow%20control.png "Click to enlarge")
-	<figcaption markdown>
-	The pin connections between a radio and the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>The pin connections between a radio and the RTK Postcard.</figcaption>
 	</figure>
 
 	</div>
@@ -313,9 +303,7 @@ The [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through 
 
 	<figure markdown>
 	[![Soldering headers](./assets/img/hookup_guide/assembly-headers.jpg){ width="400" }](./assets/img/hookup_guide/assembly-headers.jpg "Click to enlarge")
-	<figcaption markdown>
-	Soldering headers to the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>Soldering headers to the RTK Postcard.</figcaption>
 	</figure>
 
 
@@ -327,9 +315,7 @@ The [PTH](https://en.wikipedia.org/wiki/Through-hole_technology "Plated Through 
 
 	<figure markdown>
 	[![Soldering wires](./assets/img/hookup_guide/assembly-hookup_wire.jpg){ width="400" }](./assets/img/hookup_guide/assembly-hookup_wire.jpg "Click to enlarge")
-	<figcaption markdown>
-	Soldering wires to the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>Soldering wires to the RTK Postcard.</figcaption>
 	</figure>
 
 </div>

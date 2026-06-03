@@ -58,9 +58,7 @@ The [ESP32 Arduino Core](https://github.com/espressif/arduino-esp32) can be inst
 
 <figure markdown>
 [![Preference settings](./assets/img/hookup_guide/arduino-preferences.png "Click to enlarge"){ width="325" }](./assets/img/hookup_guide/arduino-preferences.png)
-<figcaption markdown>
-Preference settings for the Arduino IDE.
-</figcaption>
+<figcaption markdown>Preference settings for the Arduino IDE.</figcaption>
 </figure>
 
 </div>
@@ -70,9 +68,7 @@ Preference settings for the Arduino IDE.
 
 <figure markdown>
 [![Board manager](./assets/img/hookup_guide/arduino-board_manager.png "Click to enlarge"){ width="400" }](./assets/img/hookup_guide/arduino-board_manager.png)
-<figcaption markdown>
-The Espressif ESP32 Arduino core in the library manager of the Arduino IDE.
-</figcaption>
+<figcaption markdown>The Espressif ESP32 Arduino core in the library manager of the Arduino IDE.</figcaption>
 </figure>
 
 </div>
@@ -93,9 +89,7 @@ In order to program the ESP32 Pico-Mini module on the RTK Postcard, users should
 
 <figure markdown>
 [![Board definition](./assets/img/hookup_guide/arduino-select_board.png "Click to enlarge"){ width="400" }](./assets/img/hookup_guide/arduino-select_board.png)
-<figcaption markdown>
-Selecting the **ESP32 Dev Module** board for the RTK Postcard in the Arduino IDE.
-</figcaption>
+<figcaption markdown>Selecting the **ESP32 Dev Module** board for the RTK Postcard in the Arduino IDE.</figcaption>
 </figure>
 
 
@@ -111,9 +105,7 @@ The [SparkFun LG290P Quadband RTK GNSS Arduino Library](https://github.com/spark
 
 <figure markdown>
 [![Library manager](./assets/img/hookup_guide/arduino-library_manager.png "Click to enlarge"){ width="400" }](./assets/img/hookup_guide/arduino-library_manager.png)
-<figcaption markdown>
-SparkFun LG290P Quadband RTK GNSS Arduino Library in the library manager of the Arduino IDE.
-</figcaption>
+<figcaption markdown>SparkFun LG290P Quadband RTK GNSS Arduino Library in the library manager of the Arduino IDE.</figcaption>
 </figure>
 
 </div>

@@ -65,9 +65,7 @@ The SparkFun RTK Postcard board's dimensions, pin layout, and connectors are sim
 	=== "Dimensions"
 		<article style="text-align: center;" markdown>
 		[![Board Dimensions](./assets/board_files/dimensions-background.png){ width="450" }](./assets/board_files/dimensions.png "Click to enlarge")
-		<figcaption markdown>
-		Dimensions of the RTK Postcard.
-		</figcaption>
+		<figcaption markdown>Dimensions of the RTK Postcard.</figcaption>
 		</article>
 
 
@@ -99,9 +97,7 @@ The USB connector is provided to power the board and communicate with either the
 
 <figure markdown>
 [![USB-C Connector](./assets/img/hookup_guide/usb_connector.png){ width="400" }](./assets/img/hookup_guide/usb_connector.png "Click to enlarge")
-<figcaption markdown>
-USB-C connector on the RTK Postcard.
-</figcaption>
+<figcaption markdown>USB-C connector on the RTK Postcard.</figcaption>
 </figure>
 
 
@@ -116,7 +112,7 @@ The CH342 serial-to-USB converter allows users to interface with the `UART1` por
 
 		---
 
-		[:octicons-download-16:{ .heart } Download Page for <code>CH343SER.EXE</code>](https://www.wch-ic.com/downloads/CH343SER_EXE.html){ .md-button .md-button--primary target="blank" }
+		[:octicons-download-16:{ .heart } Download Page for `CH343SER.EXE`](https://www.wch-ic.com/downloads/CH343SER_EXE.html){ .md-button .md-button--primary target="blank" }
 
 
 	-   :material-apple: **MacOS**
@@ -134,9 +130,7 @@ The CH342 serial-to-USB converter allows users to interface with the `UART1` por
 
 <figure markdown>
 [![CH342 UART Channels](./assets/img/hookup_guide/ch342-uarts.png){ width="400" }](./assets/img/hookup_guide/ch342-uarts.png "Click to enlarge")
-<figcaption markdown>
-The `UART` channels of the CH342 serial-to-USB converter.
-</figcaption>
+<figcaption markdown>The `UART` channels of the CH342 serial-to-USB converter.</figcaption>
 </figure>
 
 
@@ -192,9 +186,7 @@ The RTK Postcard only requires **3.3V** to power the board's primary components.
 
 <figure markdown>
 [![Power connections](./assets/img/hookup_guide/power_connections.png){ width="400" }](./assets/img/hookup_guide/power_connections.png "Click to enlarge")
-<figcaption markdown>
-RTK Postcard's power connections.
-</figcaption>
+<figcaption markdown>RTK Postcard's power connections.</figcaption>
 </figure>
 
 Below, is a general summary of the power circuitry for the board:
@@ -278,9 +270,7 @@ The brains of the RTK Postcard is an [ESP32 Pico-Mini module](https://espressif.
 
 <figure markdown>
 [![ESP32 Pico-Mini module](./assets/img/hookup_guide/esp32.png){ width="300" }](./assets/img/hookup_guide/esp32.png "Click to enlarge")
-<figcaption markdown>
-The ESP32 Pico-Mini module on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The ESP32 Pico-Mini module on the RTK Postcard.</figcaption>
 </figure>
 
 
@@ -366,9 +356,7 @@ The ESP32 Pico-Mini module features *27 multifunctional GPIO* pins, of which, **
 
 <figure markdown>
 [![Peripherals interfaces](./assets/img/hookup_guide/esp32-peripherals3.png){ width="400" }](./assets/img/hookup_guide/esp32-peripherals3.png "Click to enlarge")
-<figcaption markdown>
-The peripheral interfaces and I/O pins on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The peripheral interfaces and I/O pins on the RTK Postcard.</figcaption>
 </figure>
 
 
@@ -481,9 +469,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 			<figure markdown>
 			[![Annotated image of analog inputs](./assets/img/hookup_guide/esp32-adc.png){ width="250" }](./assets/img/hookup_guide/esp32-adc.png "Click to enlarge")
-			<figcaption markdown>
-			Analog input pins on the RTK Postcard.
-			</figcaption>
+			<figcaption markdown>Analog input pins on the RTK Postcard.</figcaption>
 			</figure>
 
 			</div>
@@ -525,9 +511,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 			<figure markdown>
 			[![Annotated image of DAC pins](./assets/img/hookup_guide/esp32-dac.png){ width="300" }](./assets/img/hookup_guide/esp32-dac.png "Click to enlarge")
-			<figcaption markdown>
-			Any I/O pin can be a PWM output, but these are the DAC pins on the RTK Postcard.
-			</figcaption>
+			<figcaption markdown>Any I/O pin can be a PWM output, but these are the DAC pins on the RTK Postcard.</figcaption>
 			</figure>
 
 			</div>
@@ -569,9 +553,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 			<figure markdown>
 			[![Annotated image of UART pins](./assets/img/hookup_guide/esp32-uarts.png){ width="300" }](./assets/img/hookup_guide/esp32-uarts.png "Click to enlarge")
-			<figcaption markdown>
-			Default UART ports on the RTK Postcard.
-			</figcaption>
+			<figcaption markdown>Default UART ports on the RTK Postcard.</figcaption>
 			</figure>
 
 			</div>
@@ -634,9 +616,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 			<figure markdown>
 			[![Annotated image of SPI pins](./assets/img/hookup_guide/esp32-spi.png){ width="300" }](./assets/img/hookup_guide/esp32-spi.png "Click to enlarge")
-			<figcaption markdown>
-			Default SPI bus connections on the RTK Postcard.
-			</figcaption>
+			<figcaption markdown>Default SPI bus connections on the RTK Postcard.</figcaption>
 			</figure>
 
 			</div>
@@ -692,9 +672,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 			<figure markdown>
 			[![Annotated image of I2C pins](./assets/img/hookup_guide/esp32-i2c0_controller.png){ width="300" }](./assets/img/hookup_guide/esp32-i2c0_controller.png "Click to enlarge")
-			<figcaption markdown>
-			Default I^2^C bus connections for the RTK Postcard.
-			</figcaption>
+			<figcaption markdown>Default I^2^C bus connections for the RTK Postcard.</figcaption>
 			</figure>
 
 			</div>
@@ -745,9 +723,7 @@ The centerpiece of the RTK Postcard, is the [LG290P GNSS module](./assets/compon
 
 <figure markdown>
 [![LG290P GNSS module](./assets/img/hookup_guide/lg290p.png){ width="250" }](./assets/img/hookup_guide/lg290p.png "Click to enlarge")
-<figcaption markdown>
-The LG290P module on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The LG290P module on the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -832,9 +808,7 @@ The LG290P module on the RTK Postcard.
 
 	<figure markdown>
 	[![GNSS frequency bands](https://www.tallysman.com/app/uploads/2021/07/Tallysman-GNSS-Frequencies-v8.0_Chart-1-1024x425.png){ width="800" style="background-color:white"}](https://www.tallysman.com/app/uploads/2021/07/Tallysman-GNSS-Frequencies-v8.0_Chart-1-1024x425.png "Click to enlarge")
-	<figcaption markdown>
-	Frequency bands of the global navigation satellite systems. (Source: [Tallysman](https://www.tallysman.com/gnss-constellations-radio-frequencies-and-signals/))
-	</figcaption>
+	<figcaption markdown>Frequency bands of the global navigation satellite systems. (Source: [Tallysman](https://www.tallysman.com/gnss-constellations-radio-frequencies-and-signals/))</figcaption>
 	</figure>
 
 
@@ -900,9 +874,7 @@ The LG290P module on the RTK Postcard.
 
 		<figure markdown>
 		[![GNSS frequency bands](https://gssc.esa.int/navipedia/images/c/cf/GNSS_All_Signals.png){ width="400" }](https://gssc.esa.int/navipedia/images/c/cf/GNSS_All_Signals.png "Click to enlarge")
-		<figcaption markdown>
-		Frequency bands of the global navigation satellite systems. (Source: [ESA](https://gssc.esa.int/navipedia/index.php?title=File:GNSS_All_Signals.png "European Space Agency"))
-		</figcaption>
+		<figcaption markdown>Frequency bands of the global navigation satellite systems. (Source: [ESA](https://gssc.esa.int/navipedia/index.php?title=File:GNSS_All_Signals.png "European Space Agency"))</figcaption>
 		</figure>
 
 		However, if the various GNSS constellations share similar frequency bands, then how do they avoid interfering with one another? Without going too far into detail, the image above helps illustrate some of the characteristics, specific to the frequency bands of each system. With these characteristics in mind, along with other factors, the chart can help users to visualize how multiple GNSS constellations might co-exist with each other.
@@ -970,9 +942,7 @@ The LG290P GNSS features several peripheral interfaces and I/O pins. Some of the
 
 <figure markdown>
 [![Peripherals interfaces](./assets/img/hookup_guide/lg290p-peripherals2.png){ width="250" }](./assets/img/hookup_guide/lg290p-peripherals2.png "Click to enlarge")
-<figcaption markdown>
-The peripheral interfaces and I/O pins on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The peripheral interfaces and I/O pins on the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -1009,9 +979,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 	<figure markdown>
 	[![UART interface](./assets/img/hookup_guide/lg290p-uarts.png){ width="400" }](./assets/img/hookup_guide/lg290p-uarts.png "Click to enlarge")
-	<figcaption markdown>
-	The UART ports on the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>The UART ports on the RTK Postcard.</figcaption>
 	</figure>
 
 	</div>
@@ -1107,9 +1075,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 		<figure markdown>
 		[![NMEA data structure](./assets/img/hookup_guide/nmea_protocol.png){ width="600" }](./assets/img/hookup_guide/nmea_protocol.png "Click to enlarge")
-		<figcaption markdown>
-		The data structure of Quectel messages for the `NMEA` protocol.
-		</figcaption>
+		<figcaption markdown>The data structure of Quectel messages for the `NMEA` protocol.</figcaption>
 		</figure>
 
 		=== "NMEA"
@@ -1238,9 +1204,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 	<figure markdown>
 	[![I/O for PPS signal](./assets/img/hookup_guide/esp32-pps.png){ width="400" }](./assets/img/hookup_guide/esp32-pps.png "Click to enlarge")
-	<figcaption markdown>
-	The timing signal's outputs on the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>The timing signal's outputs on the RTK Postcard.</figcaption>
 	</figure>
 
 	??? tip "Jumpers"
@@ -1260,9 +1224,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 	<figure markdown>
 	[![I/O for RTK signal](./assets/img/hookup_guide/esp32-rtk.png){ width="400" }](./assets/img/hookup_guide/esp32-rtk.png "Click to enlarge")
-	<figcaption markdown>
-	The RTK signal's outputs on the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>The RTK signal's outputs on the RTK Postcard.</figcaption>
 	</figure>
 
 
@@ -1292,9 +1254,7 @@ The peripheral interfaces and I/O pins on the RTK Postcard.
 
 	<figure markdown>
 	[![Reset Pin](./assets/img/hookup_guide/lg290p-reset.png){ width="400" }](./assets/img/hookup_guide/lg290p-reset.png "Click to enlarge")
-	<figcaption markdown>
-	The `RST` pin on the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>The `RST` pin on the RTK Postcard.</figcaption>
 	</figure>
 
 <!-- === "Event" -->
@@ -1340,9 +1300,7 @@ While there are two GNSS antenna connectors, only the SMA connector is connected
 
 <figure markdown>
 [![SMA Connector](./assets/img/hookup_guide/antenna-sma.png){ width="400" }](./assets/img/hookup_guide/antenna-sma.png "Click to enlarge")
-<figcaption markdown>
-The SMA connector for an external GNSS antenna on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The SMA connector for an external GNSS antenna on the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -1352,9 +1310,7 @@ The SMA connector for an external GNSS antenna on the RTK Postcard.
 
 <figure markdown>
 [![u.fl Connector](./assets/img/hookup_guide/antenna-ufl.png){ width="400" }](./assets/img/hookup_guide/antenna-ufl.png "Click to enlarge")
-<figcaption markdown>
-The u.fl connector for the **[PPS output](#pps-output)** from the RTK Postcard.
-</figcaption>
+<figcaption markdown>The u.fl connector for the **[PPS output](#pps-output)** from the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -1387,9 +1343,7 @@ The RTK Postcard features a 4-pin [JST GH connector](./assets/component_document
 
 <figure markdown>
 [![JST connector](./assets/img/hookup_guide/jst_connector.png){ width="400" }](./assets/img/hookup_guide/jst_connector.png "Click to enlarge")
-<figcaption markdown>
-The JST connector on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The JST connector on the RTK Postcard.</figcaption>
 </figure>
 
 
@@ -1472,9 +1426,7 @@ The JST connector on the RTK Postcard.
 
 	<figure markdown>
 	[![Flow Control](https://docs.sparkfun.com/SparkFun_LoRaSerial/img/SAMD21%20Flow%20control.png){ width="400" }](https://docs.sparkfun.com/SparkFun_LoRaSerial/img/SAMD21%20Flow%20control.png "Click to enlarge")
-	<figcaption markdown>
-	The `COM` ports on the RTK Postcard.
-	</figcaption>
+	<figcaption markdown>The `COM` ports on the RTK Postcard.</figcaption>
 	</figure>
 
 	</div>
@@ -1510,9 +1462,7 @@ There are five status LEDs on the RTK Postcard. The table below, lists the pin c
 
 <figure markdown>
 [![Status LEDs](./assets/img/hookup_guide/LEDs.png){ width="400" }](./assets/img/hookup_guide/LEDs.png "Click to enlarge")
-<figcaption markdown>
-The status LED indicators on the RTK Postcard.
-</figcaption>
+<figcaption markdown>The status LED indicators on the RTK Postcard.</figcaption>
 </figure>
 
 </div>
@@ -1556,9 +1506,7 @@ There are eight jumpers on the back of the board that can be used to easily modi
 
 <figure markdown>
 [![Jumpers](./assets/img/hookup_guide/jumpers.png){ width="400" }](./assets/img/hookup_guide/jumpers.png "Click to enlarge")
-<figcaption markdown>
-The jumpers on the back of the RTK Postcard.
-</figcaption>
+<figcaption markdown>The jumpers on the back of the RTK Postcard.</figcaption>
 </figure>
 
 

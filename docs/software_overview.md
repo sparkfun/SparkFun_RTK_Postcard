@@ -54,9 +54,7 @@ In order to connect to the LG290P properly, users will need to specify the setti
 
 <figure markdown>
 [![Configure UART Settings](./assets/img/hookup_guide/qgnss-uart_settings-button.png){ width="400" }](./assets/img/hookup_guide/qgnss-uart_settings-button.png "Click to enlarge")
-<figcaption markdown>
-Click the <kbd>:material-cog:</kbd> button to configure the UART settings.
-</figcaption>
+<figcaption markdown>Click the <kbd>:material-cog:</kbd> button to configure the UART settings.</figcaption>
 </figure>
 
 Before users can connect to the RTK Postcard, they will need to specify the connection settings in QGNSS. Once configured, users can select the ++"OK"++ button and QGNSS will automatically attempt to connect to the GNSS module.
@@ -72,9 +70,7 @@ Before users can connect to the RTK Postcard, they will need to specify the conn
 
 <figure markdown>
 [![UART Settings in QGNSS](./assets/img/hookup_guide/qgnss-uart_settings.png){ width="400" }](./assets/img/hookup_guide/qgnss-uart_settings.png "Click to enlarge")
-<figcaption markdown>
-From the available `COM` ports for the CH342, select the port labeled `B` to access the LG290P GNSS receiver. Users will also need to specify the settings for the UART port.
-</figcaption>
+<figcaption markdown>From the available `COM` ports for the CH342, select the port labeled `B` to access the LG290P GNSS receiver. Users will also need to specify the settings for the UART port.</figcaption>
 </figure>
 
 </div>
@@ -152,9 +148,7 @@ The [ESP32 Arduino Core](https://github.com/espressif/arduino-esp32) can be inst
 
 <figure markdown>
 [![Board manager](./assets/img/hookup_guide/arduino-board_manager.png "Click to enlarge"){ width="400" }](./assets/img/hookup_guide/arduino-board_manager.png)
-<figcaption markdown>
-The Espressif ESP32 Arduino core in the library manager of the Arduino IDE.
-</figcaption>
+<figcaption markdown>The Espressif ESP32 Arduino core in the library manager of the Arduino IDE.</figcaption>
 </figure>
 
 </div>
@@ -190,9 +184,7 @@ The [SparkFun LG290P Quadband RTK GNSS Arduino Library](https://github.com/spark
 
 <figure markdown>
 [![Library manager](./assets/img/hookup_guide/arduino-library_manager.png "Click to enlarge"){ width="400" }](./assets/img/hookup_guide/arduino-library_manager.png)
-<figcaption markdown>
-SparkFun LG290P Quadband RTK GNSS Arduino Library in the library manager of the Arduino IDE.
-</figcaption>
+<figcaption markdown>SparkFun LG290P Quadband RTK GNSS Arduino Library in the library manager of the Arduino IDE.</figcaption>
 </figure>
 
 </div>
