@@ -36,7 +36,7 @@ Documentation
 * **[Hookup Guide (mkdocs)](http://docs.sparkfun.com/SparkFun_RTK_Postcard/)** - The hookup guide for the SparkFun RTK Postcard hosted by GitHub pages.<br>
   [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/) [![GitHub Pages Deploy](https://github.com/sparkfun/SparkFun_RTK_Postcard/actions/workflows/generate_documentation.yml/badge.svg)](https://github.com/sparkfun/SparkFun_RTK_Postcard/actions/workflows/generate_documentation.yml)
 * [User Manual - RTK Everywhere Firmware](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/) - Documentation for the [RTK Everywhere firmware](https://github.com/sparkfun/SparkFun_RTK_Everywhere_Firmware)
-* [SparkFun LG290P GNSS Arduino Library](https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library) - An Arduino library for the LG290P GNSS module
+* [SparkFun LG290P GNSS Arduino Library](https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library) - An Arduino library for the LG290P and LGx80P GNSS modules
 
 *Need to download or print our hookup guide?*
 
@@ -62,8 +62,11 @@ Repository Contents
 Product Variants
 ----------------
 
-* [GPS-26916](https://www.sparkfun.com/sparkfun-rtk-postcard.html) - v1.0, Initial Release
-* [GPS-26620](https://www.sparkfun.com/sparkfun-quadband-gnss-rtk-breakout-lg290p-qwiic.html) - SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic) *(w/o ESP32)*
+- LG290P Variants
+  - [GPS-26916](https://www.sparkfun.com/sparkfun-rtk-postcard.html) - v1.0, Initial Release
+  - [GPS-26620](https://www.sparkfun.com/sparkfun-quadband-gnss-rtk-breakout-lg290p-qwiic.html) - SparkFun Quadband GNSS RTK Breakout - LG290P (Qwiic) *(w/o ESP32)*
+- [GPS-28019](https://www.sparkfun.com/products/28019) - SparkFun Quadband GNSS RTK Breakout - LG580P (Qwiic)
+
 
 Version History
 ---------------
